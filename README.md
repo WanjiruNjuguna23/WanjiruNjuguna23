@@ -1,0 +1,11 @@
+- 👋 Hi, I’m Martha Wanjiru Njuguna.
+- I am a senior at Connecticut College.
+- I am studying Computer Science and Quantitative Economics & Econometrics
+- 👀 I’m interested in web development, Backend, Fullstack and Finance
+- I have worked with python, Javascript, HTML,CSS
+- 🌱 I’m currently learning rust and Django
+- 💞️ I’m looking to collaborate on ...
+- 📫 You can reach me through my email mnjuguna@conncoll.edu
+- 😄 Pronouns: She/her
+- ⚡ Fun fact: I love giraffes
+
