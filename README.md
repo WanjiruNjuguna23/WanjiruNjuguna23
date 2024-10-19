@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning rust and Django
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me through my email mnjuguna@conncoll.edu
+- linkedln: https://www.linkedin.com/in/wanjirumnjuguna/
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I love giraffes
 
