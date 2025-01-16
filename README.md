@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Martha Wanjiru Njuguna.
-- I am a senior at Connecticut College.
+- I am a student at Connecticut College.
 - I am studying Computer Science and Quantitative Economics & Econometrics
 - 👀 I’m interested in web development, Backend, Fullstack, Data Science and Finance
 - I have worked with python, Javascript, HTML,CSS, bootstrap
